@@ -1,0 +1,239 @@
+[ 30/10/2019 12:14:02 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:14:02 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:14:02 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 12:14:02 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 12:14:02 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 12:17:26 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:17:26 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:17:26 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 12:17:26 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 12:17:26 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 12:17:52 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:17:52 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:17:52 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 12:17:52 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 12:17:52 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 12:20:01 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:20:01 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./cbimage.jpg
+[ 30/10/2019 12:20:01 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 12:20:01 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 12:20:01 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 12:20:43 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 12:22:39 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 12:24:06 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 15:12:04 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 15:26:33 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 15:27:08 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 15:27:57 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 15:33:43 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 15:44:14 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 15:49:33 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 15:50:07 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 16:55:56 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 17:02:51 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 17:03:08 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./1.jpg
+[ 30/10/2019 17:03:08 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./1.jpg
+[ 30/10/2019 17:03:08 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:03:08 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 17:03:08 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 17:03:50 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 17:04:01 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./1.jpg
+[ 30/10/2019 17:04:01 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./1.jpg
+[ 30/10/2019 17:04:01 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:04:01 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 17:04:01 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 17:04:37 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./2.jpg
+[ 30/10/2019 17:04:37 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./2.jpg
+[ 30/10/2019 17:04:37 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:04:37 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 17:04:37 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 17:05:04 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 17:05:37 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./2.png
+[ 30/10/2019 17:05:37 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - ./2.png
+[ 30/10/2019 17:05:37 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:05:37 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 17:05:37 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 17:06:00 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 17:06:15 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - 2.png
+[ 30/10/2019 17:06:15 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - 2.png
+[ 30/10/2019 17:06:15 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:06:15 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 17:06:15 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 17:07:21 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 17:07:38 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:18:18 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 17:19:06 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:20:27 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:20:27 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 17:20:27 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 17:20:50 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:21:16 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 17:21:16 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 17:21:16 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 18:36:24 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 18:36:24 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 18:36:24 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 18:37:05 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 18:37:33 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 18:37:44 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 18:40:18 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 18:40:34 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 18:40:34 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 40 was not registered as written. probably means it was not written
+[ 30/10/2019 18:40:34 ] PDFWriter::EndPDF, Could not end PDF
+[ 30/10/2019 18:40:55 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 18:41:09 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 18:41:15 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 18:41:45 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 18:47:56 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x0410
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x043f
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x043a
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x0430
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x0410
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x043f
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x043a
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x0430
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x0410
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x043f
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x043a
+[ 30/10/2019 18:48:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x0430
+[ 30/10/2019 18:48:16 ] AbstractContextContext::WriteTextCommandWithEncoding, was unable to find glyphs for all characters, some will appear as missing
+[ 30/10/2019 18:48:16 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 18:48:47 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 18:48:58 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 18:49:21 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 19:53:37 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 19:53:40 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 19:53:54 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 19:58:33 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 20:05:32 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 20:08:58 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 20:10:49 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 20:16:32 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:16:46 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - ./PDF/out.pdf
+[ 30/10/2019 23:20:06 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:21:12 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:21:42 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:22:04 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:22:13 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:23:09 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:25:08 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:25:28 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:26:13 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:37:09 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:38:38 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:39:19 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:39:46 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:40:13 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:40:52 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:41:20 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:41:36 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:42:13 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:48:21 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:50:10 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:51:10 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:53:48 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:54:33 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:55:59 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:57:14 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 30/10/2019 23:59:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:01:51 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:02:09 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:09:00 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:09:33 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:10:11 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:11:34 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:14:09 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:15:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:16:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:19:17 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:19:46 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:19:54 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:25:49 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:26:38 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:27:04 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:32:18 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:32:56 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:34:00 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:34:34 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:35:48 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:36:36 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:37:22 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:37:51 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:38:17 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:38:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:40:28 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:41:01 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:41:26 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:42:04 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:44:15 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 00:44:40 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:35:22 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:36:06 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:40:20 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:40:37 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:40:50 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:44:38 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:44:45 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:44:55 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:45:02 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:45:07 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:45:12 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:47:10 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:48:12 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:48:52 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:49:07 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:50:12 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:50:26 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:51:27 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:53:20 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:53:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:53:41 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:54:41 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:55:12 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:55:22 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:57:10 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 16:58:27 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:41:53 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:43:08 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:48:55 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:49:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:50:38 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:53:31 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:57:57 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:58:36 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:58:44 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 19:58:51 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 20:02:00 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 20:16:28 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 20:17:44 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 20:18:01 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 20:18:09 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 31/10/2019 20:18:16 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:30:01 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:34:54 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:35:05 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:35:13 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:39:43 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:40:04 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:40:47 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:41:09 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:42:35 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:43:03 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:43:28 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:43:40 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:44:14 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:45:15 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:45:27 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:45:41 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:45:51 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:46:04 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:46:41 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:47:00 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:47:14 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:47:37 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate
+[ 01/11/2019 00:49:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x015b
+[ 01/11/2019 00:49:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x015b
+[ 01/11/2019 00:49:16 ] FreeTypeFaceWrapper::GetGlyphsForUnicodeText, failed to find glyph for charachter 0x015b
+[ 01/11/2019 00:49:16 ] AbstractContextContext::WriteTextCommandWithEncoding, was unable to find glyphs for all characters, some will appear as missing
+[ 01/11/2019 00:49:16 ] UnicodeString::FromUTF16BE, fault string - high surrogat encountered without a low surrogate

@@ -1,0 +1,28 @@
+{
+  "name": "signapp",
+  "version": "1.0.0",
+  "description": "Sign App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon server",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Vlad",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "body-parser": "^1.19.0",
+    "concurrently": "^5.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-ip": "^1.0.3",
+    "html-pdf": "^2.2.0",
+    "hummus-recipe": "^1.8.21",
+    "mongoose": "^5.7.5",
+    "nodemon": "^1.19.4",
+    "react-redux": "^7.1.1",
+    "webshot": "^0.18.0"
+  }
+}
